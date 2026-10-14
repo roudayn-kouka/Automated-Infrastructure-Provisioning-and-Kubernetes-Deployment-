@@ -1,4 +1,4 @@
-# Simple DevOps Project
+# Automated Infrastructure Provisioning and Kubernetes Deployment⁠
 
 This repository contains a practical DevOps learning project that documents how to build and deploy an application through a basic CI/CD workflow using Jenkins, Maven, Ansible, Docker, Tomcat, and Kubernetes.
 
